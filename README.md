@@ -1,5 +1,13 @@
 # Understanding and Mitigating Hallucinations in Multimodal Chain-of-Thought Models [CVPR 26]
-[![License: MIT](https://img.shields.io/badge/License-MIT-g.svg)](https://opensource.org/licenses/MIT)[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2603.27201)
+
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://arxiv.org/abs/2603.27201"><img src="https://img.shields.io/badge/Paper-arXiv-red.svg" alt="Paper"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://youtu.be/G50IKN8-gJo"><img src="https://img.shields.io/badge/Video-YouTube-red.svg" alt="Video"></a>
+</p>
 
 <p align="center">
   <a href="assets/poster.png">
