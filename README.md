@@ -6,7 +6,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://arxiv.org/abs/2603.27201"><img src="https://img.shields.io/badge/Paper-arXiv-red.svg" alt="Paper"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://youtu.be/G50IKN8-gJo"><img src="https://img.shields.io/badge/Video-YouTube-red.svg" alt="Video"></a>
+  <a href="https://youtu.be/G50IKN8-gJo"><img src="https://img.shields.io/badge/Video-YouTube-blue.svg" alt="Video"></a>
 </p>
 
 <p align="center">
